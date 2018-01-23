@@ -1,0 +1,8 @@
+[package]
+name = "forex"
+version = "0.1.0"
+authors = ["Afaan Bilal <afaanbilal@gmail.com>"]
+
+[dependencies]
+reqwest = "*"
+serde_json = "1.0"
