@@ -7,7 +7,7 @@ Author URL: **[Google+](https://google.com/+AfaanBilal)**
 ## Introduction
 **Forex** is a small utility to quickly convert between currencies using the latest
 exhange rates. **Forex** is written in **[Rust](https://www.rust-lang.org)** and uses
-**[fixer.io](https://fixer.io)** API. Conversions are purely for informational purposes only.
+**[fixer.io](http://fixer.io)** API. Conversions are purely for informational purposes only.
 
 ## Contributing
 All contributions are welcome. Please create an issue first for any feature request
