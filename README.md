@@ -1,8 +1,7 @@
 Forex
 =====
 
-Author: **Afaan Bilal([@AfaanBilal](https://github.com/AfaanBilal))**   
-Author URL: **[Google+](https://google.com/+AfaanBilal)**
+Author: **[Afaan Bilal](https://afaan.me)**  
 
 ## Introduction
 **Forex** is a small utility to quickly convert between currencies using the latest
