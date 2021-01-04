@@ -1,7 +1,7 @@
 Forex
 =====
 
-Author: **[Afaan Bilal](https://afaan.me)**  
+Author: **[Afaan Bilal](https://afaan.dev)**  
 
 ## Introduction
 **Forex** is a small utility to quickly convert between currencies using the latest
